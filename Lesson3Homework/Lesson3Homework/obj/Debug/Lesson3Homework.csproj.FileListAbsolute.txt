@@ -1,0 +1,7 @@
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\bin\Debug\Lesson3Homework.exe.config
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\bin\Debug\Lesson3Homework.exe
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\bin\Debug\Lesson3Homework.pdb
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\obj\Debug\Lesson3Homework.csprojAssemblyReference.cache
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\obj\Debug\Lesson3Homework.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\obj\Debug\Lesson3Homework.exe
+E:\GeekBrains\Основы C#\Урок 3\Homework\Lesson3Homework\Lesson3Homework\obj\Debug\Lesson3Homework.pdb
