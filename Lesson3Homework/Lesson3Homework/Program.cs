@@ -10,8 +10,10 @@ namespace Lesson3Homework
         {
             FirstTask firstTask = new FirstTask();
             firstTask.Run();
+
             SecondTask secondTask = new SecondTask();
             secondTask.Run();
+
             ThirdTask thirdTask = new ThirdTask();
             thirdTask.Run();
         }
