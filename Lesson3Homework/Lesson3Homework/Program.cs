@@ -9,9 +9,9 @@ namespace Lesson3Homework
         static void Main(string[] args)
         {
             FirstTask firstTask = new FirstTask();
-            //firstTask.Run();
+            firstTask.Run();
             SecondTask secondTask = new SecondTask();
-            //secondTask.Run();
+            secondTask.Run();
             ThirdTask thirdTask = new ThirdTask();
             thirdTask.Run();
         }

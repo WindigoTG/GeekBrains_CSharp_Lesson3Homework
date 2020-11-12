@@ -23,7 +23,8 @@ namespace Lesson3Homework
                 try
                 {
                     inputResult = int.Parse(Console.ReadLine());
-                    numbers += $"{inputResult}, ";
+                    if (inputResult != 0)
+                        numbers += $"{inputResult}, ";
                     if (inputResult > 0 && inputResult % 2 != 0)
                         sum += inputResult;
                     if (inputResult == 0)
@@ -38,7 +39,7 @@ namespace Lesson3Homework
                     view.Print(e.Message);
                 }
             } while (!stop);
-            view.Print($"\nВы ввели последовательность чисел:\n{numbers.TrimEnd(',',' ','0')}");
+            view.Print($"\nВы ввели последовательность чисел:\n{numbers.TrimEnd(',',' ')}");
             view.Print($"\nСумма нечетных положительных чисел равна {sum}");
 
             view.Pause();
